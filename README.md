@@ -1,2 +1,2 @@
-# adeptcode
+# AdeptCode
 Graphics engine
